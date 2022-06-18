@@ -14,10 +14,6 @@
  storeFiles()
 
 
-
-
-
-
  
 // Run it with
 // npm i web3.storage
